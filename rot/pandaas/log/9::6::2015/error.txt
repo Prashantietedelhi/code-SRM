@@ -1,0 +1,81 @@
+
+
+Client IP: 127.0.0.1  Client Port: 35121    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35270    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35280    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35347    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35352    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35357    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35413    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35433    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35438    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35457    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35462    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35544    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 41171    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 41176    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 41189    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41193    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41197    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41201    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41205    Error msg:global name 'receiveData' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41209    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41213    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41217    Error msg:global name 'receiveData' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41221    Error msg:global name 'receiveData' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41225    Error msg:global name 'receiveData' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41229    Error msg:global name 'receiveData' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41233    Error msg:global name 'receiveData' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41237    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41241    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41245    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41249    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41253    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41257    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41261    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41265    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41269    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41294    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41297    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41301    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41305    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41310    Error msg:No JSON object could be decoded

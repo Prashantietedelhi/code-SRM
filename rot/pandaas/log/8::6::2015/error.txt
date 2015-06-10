@@ -1,0 +1,39 @@
+
+
+Client IP: 127.0.0.1  Client Port: 48749    Error msg:[Errno 111] Connection refused
+
+Client IP: 127.0.0.1  Client Port: 48753    Error msg:[Errno 111] Connection refused
+
+Client IP: 127.0.0.1  Client Port: 48757    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48763    Error msg:[Errno 111] Connection refused
+
+Client IP: 127.0.0.1  Client Port: 48767    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48844    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48852    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48864    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48872    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48879    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48888    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48897    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48906    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48914    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48922    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48929    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 48935    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 48966    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 49107    Error msg:[Errno 9] Bad file descriptor

@@ -1,0 +1,39 @@
+
+Client IP: 127.0.0.1  Client Port: 48749
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48753
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48757
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48763
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48767
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48844
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48852
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48864
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48872
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48879
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48888
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48897
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48906
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48914
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48922
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48929
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48935
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 48966
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 49107
+Received:{"Operation": "create VM", "jobId": "98ss90", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}

@@ -1,0 +1,55 @@
+
+
+Client IP: 127.0.0.1  Client Port: 41498    Error msg:global name 'receiveData' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41520    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 41548    Error msg:global name 'receiveData' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41573    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41603    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41626    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41639    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41647    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41657    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41781    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41802    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 41824    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42063    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42187    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42199    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42207    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42214    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42221    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42229    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42241    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42401    Error msg:string indices must be integers, not str
+
+Client IP: 127.0.0.1  Client Port: 42411    Error msg:global name 'dData' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42416    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42454    Error msg:global name 'ip' is not defined
+
+Client IP: 127.0.0.1  Client Port: 42467    Error msg:updateDB() takes exactly 7 arguments (6 given)
+
+Client IP: 203.0.113.164  Client Port: port    Error msg:'tuple' object has no attribute 'encode'
+
+Client IP: 127.0.0.1  Client Port: 42475    Error msg:[Errno 9] Bad file descriptor

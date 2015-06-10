@@ -1,0 +1,15 @@
+
+
+Client IP: 203.0.113.190  Client Port: 34496    Error msg:[Errno 99] Cannot assign requested address
+
+Client IP: 203.0.113.190  Client Port: 34501    Error msg:No JSON object could be decoded
+
+Client IP: 203.0.113.190  Client Port: 34505    Error msg:global name 'subprocess' is not defined
+
+Client IP: 203.0.113.190  Client Port: 34509    Error msg:No JSON object could be decoded
+
+Client IP: 203.0.113.190  Client Port: 34512    Error msg:No JSON object could be decoded
+
+Client IP: 203.0.113.190  Client Port: 34647    Error msg:No JSON object could be decoded
+
+Client IP: 203.0.113.190  Client Port: 34652    Error msg:No JSON object could be decoded

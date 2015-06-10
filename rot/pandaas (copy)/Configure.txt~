@@ -1,0 +1,5 @@
+user = root
+password = root
+host = localhost
+database = chandan
+port = 59969

@@ -1,0 +1,13 @@
+
+
+Client IP: 192.168.1.156  Client Port: 43885    Error msg:No JSON object could be decoded
+
+Client IP: 192.168.1.156  Client Port: 43894    Error msg:No JSON object could be decoded
+
+Client IP: 192.168.1.156  Client Port: 43905    Error msg:No JSON object could be decoded
+
+Client IP: 192.168.1.156  Client Port: 43938    Error msg:'server_groups'
+
+Client IP: 192.168.1.156  Client Port: 43947    Error msg:list indices must be integers, not str
+
+Client IP: 192.168.1.156  Client Port: 43955    Error msg:list index out of range

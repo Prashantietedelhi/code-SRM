@@ -1,0 +1,61 @@
+
+
+Client IP: 127.0.0.1  Client Port: 52722    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47441    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47446    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47450    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47453    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47459    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47465    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47471    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47476    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47482    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47487    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47492    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47497    Error msg:[Errno 111] Connection refused
+
+Client IP: 127.0.0.1  Client Port: 47500    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47505    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47509    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47516    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47527    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47532    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47549    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47555    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47560    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47567    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47572    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47577    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47582    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47587    Error msg:string indices must be integers
+
+Client IP: 127.0.0.1  Client Port: 47588    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47593    Error msg:No JSON object could be decoded
+
+Client IP: 127.0.0.1  Client Port: 47600    Error msg:No JSON object could be decoded

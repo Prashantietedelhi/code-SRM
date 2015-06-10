@@ -1,0 +1,61 @@
+
+Client IP: 127.0.0.1  Client Port: 52722
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47441
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47446
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47450
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47453
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47459
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47465
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47471
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47476
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47482
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47487
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47492
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47497
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47500
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47505
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47509
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47516
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47527
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47532
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47549
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47555
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47560
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47567
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47572
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47577
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47582
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "instance1", "imageRef": "3c1d39ad-882e-4e84-b3df-e4d84666165e", "key_name": "admin-key", "flavorRef": "1", "max_count": 1, "min_count": 1, "networks": [{"uuid": "4d08148f-89e4-4eac-909b-aa7e71445d5b"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47587
+Received:"{\"jobId\":\"95677090\",\"Operation\":\"create VM\",\"operationType\":\"client\",\"server\": {\"name\": \"webalizer\", \"imageRef\": \"2022fc15-3a3a-4e29-848c-b3a931d61a8e\", \"key_name\": \"hadoop\", \"flavorRef\": \"2\", \"max_count\": 1, \"min_count\": 1, \"networks\": [{\"uuid\": \"47f63ef5-0173-4b76-992e-e89d0b3a5552\"}] , \"security_groups\": [{\"name\": \"default\"}]}}"
+Client IP: 127.0.0.1  Client Port: 47588
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47593
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}
+Client IP: 127.0.0.1  Client Port: 47600
+Received:{"Operation": "create VM", "jobId": "95677090", "operationType": "client", "server": {"name": "webalizer", "imageRef": "2022fc15-3a3a-4e29-848c-b3a931d61a8e", "key_name": "hadoop", "flavorRef": "2", "max_count": 1, "min_count": 1, "networks": [{"uuid": "47f63ef5-0173-4b76-992e-e89d0b3a5552"}], "security_groups": [{"name": "default"}]}}

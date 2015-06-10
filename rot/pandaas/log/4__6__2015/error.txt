@@ -1,0 +1,55 @@
+
+Client IP: 192.168.1.123  Client Port: 42767
+Error msg:1062 (23000): Duplicate entry '79223546' for key 'PRIMARY'
+Client IP: 192.168.1.123  Client Port: 42770
+Error msg:1062 (23000): Duplicate entry '79223546' for key 'PRIMARY'
+Client IP: 192.168.1.123  Client Port: 42780
+Error msg:1062 (23000): Duplicate entry '79223546' for key 'PRIMARY'
+Client IP: 192.168.1.123  Client Port: 42780
+Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 192.168.1.123  Client Port: 42785    Error msg:1062 (23000): Duplicate entry '79223546' for key 'PRIMARY'
+
+Client IP: 192.168.1.123  Client Port: 42785    Error msg:global name 'msg' is not defined
+
+Client IP: 192.168.1.123  Client Port: 42792    Error msg:1062 (23000): Duplicate entry '79223546' for key 'PRIMARY'
+
+Client IP: 192.168.1.123  Client Port: 42792    Error msg:global name 'msg' is not defined
+
+Client IP: 192.168.1.123  Client Port: 42795    Error msg:1062 (23000): Duplicate entry '79223546' for key 'PRIMARY'
+
+Client IP: 192.168.1.123  Client Port: 42795    Error msg:global name 'msg' is not defined
+
+Client IP: 192.168.1.123  Client Port: 42803    Error msg:1062 (23000): Duplicate entry '79223546' for key 'PRIMARY'
+
+Client IP: 192.168.1.123  Client Port: 42803    Error msg:global name 'msg' is not defined
+
+Client IP: 192.168.1.123  Client Port: 42815    Error msg:1062 (23000): Duplicate entry '79223546' for key 'PRIMARY'
+
+Client IP: 192.168.1.123  Client Port: 42822    Error msg:1062 (23000): Duplicate entry '79223546' for key 'PRIMARY'
+
+Client IP: 192.168.1.123  Client Port: 42822    Error msg:must be string or buffer, not dict
+
+Client IP: 192.168.1.123  Client Port: 42824    Error msg:must be string or buffer, not dict
+
+Client IP: 192.168.1.123  Client Port: 49030    Error msg:1062 (23000): Duplicate entry '98398  090' for key 'PRIMARY'
+
+Client IP: 192.168.1.123  Client Port: 49030    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 192.168.1.123  Client Port: 49032    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 192.168.1.123  Client Port: 49117    Error msg:1062 (23000): Duplicate entry '99398  090' for key 'PRIMARY'
+
+Client IP: 192.168.1.123  Client Port: 49117    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 192.168.1.151  Client Port: 58786    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 192.168.1.151  Client Port: 58795    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35884    Error msg:1062 (23000): Duplicate entry '95677090' for key 'PRIMARY'
+
+Client IP: 127.0.0.1  Client Port: 35884    Error msg:[Errno 9] Bad file descriptor
+
+Client IP: 127.0.0.1  Client Port: 35887    Error msg:1062 (23000): Duplicate entry '95677090' for key 'PRIMARY'
+
+Client IP: 127.0.0.1  Client Port: 35887    Error msg:[Errno 9] Bad file descriptor

@@ -1,0 +1,7 @@
+user = root
+password = root
+host =localhost
+database = chandan
+port = 59969
+RMIP=192.168.1.166
+RMPort=8788
