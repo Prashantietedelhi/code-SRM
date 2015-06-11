@@ -1,0 +1,5 @@
+
+Client IP: 192.168.1.169  Client Port: 37813
+Received:"{u'gender': u'male', u'college': u'IIIT-A', u'name': u'chandrakant', u'branch': u'it'}"
+Client IP: 192.168.1.169  Client Port: 37815
+Received:"{u'gender': u'male', u'college': u'IIIT-A', u'name': u'chandrakant', u'branch': u'it'}"
